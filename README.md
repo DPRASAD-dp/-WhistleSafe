@@ -1,5 +1,9 @@
 # 📘 WhistleSafe — Anonymous AI-Powered Crime Reporting System
 
+**Demo Video:**  
+https://drive.google.com/drive/folders/1z6EqKLUCKwp6YYVcIjN-f_MHzhhTtpXd?usp=drive_link
+
+
 WhistleSafe is a dual-dashboard **Streamlit application** that enables citizens to anonymously report crimes and allows authorities to verify those reports using:
 
 ✅ AI-powered text analysis (Gemini)  
